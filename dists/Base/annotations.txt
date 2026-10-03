@@ -490,7 +490,7 @@ Areas:
 - Name: senpou_bell
   Text: Bell Demon's Temple
   Req: ashinaoutskirts_courtyard  # also from senpou, but courtyard is earlier
-  Archipelago: AO
+  Archipelago: ST
 - Name: senpou_cavern
   Text: Sunken Valley Cavern from Senpou Temple
   Req: senpou AND puppeteerninjutsu
