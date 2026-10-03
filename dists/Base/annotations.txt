@@ -490,7 +490,7 @@ Areas:
 - Name: senpou_bell
   Text: Bell Demon's Temple
   Req: ashinaoutskirts_courtyard  # also from senpou, but courtyard is earlier
-  Archipelago: ST
+  Archipelago: AO
 - Name: senpou_cavern
   Text: Sunken Valley Cavern from Senpou Temple
   Req: senpou AND puppeteerninjutsu
@@ -1697,7 +1697,7 @@ Slots:
   DebugText:
   - 'Ornamental Letter - 1120000[Shiny Treasure (o000101_0000 #1121501) ashinareservoir]'
   Text: In the starting well
-  Area: ashinareservoir_start
+  Area: ashinareservoir
   Tags: missable
 - Key: '01,0:51120020::'
   DebugText:
@@ -1713,7 +1713,7 @@ Slots:
   DebugText:
   - Pellet - 1120040[Treasure (o000100_0004) ashinareservoir]
   Text: On the upper floor of the Moon-View Tower
-  Area: ashinareservoir_start  # Available at start, and then unavailable again in invasion2
+  Area: ashinareservoir  # Available at start, and then unavailable again in invasion2
   Tags: missable
 - Key: '01,0:51120050::'
   DebugText:
@@ -1766,13 +1766,13 @@ Slots:
   DebugText:
   - Pellet - 1120140[Treasure (o000100_0014) ashinareservoir]
   Text: On a ledge after crossing underneath the bridge on the way to the Secret Passage
-  Area: ashinareservoir_start
+  Area: ashinareservoir_entrance
   Tags: outoftheway missable
 - Key: '01,0:51120150::'
   DebugText:
   - Fistful of Ash - 1120150[Treasure (o000100_0015) ashinareservoir] 2x
   Text: On the way to Secret Passage shortly after the Ashina Reservoir Sculptor's Idol location
-  Area: ashinareservoir_start
+  Area: ashinareservoir_entrance
   Tags: missable
 - Key: '01,0:51120160::'
   DebugText:
