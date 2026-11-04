@@ -4549,13 +4549,13 @@ Slots:
 - Key: '06,0:52500968::'
   DebugText:
   - 'Treasure Carp Scale - 13200040[Treasure Carp (c1320_0000 #1700450) sunkenvalley]'
-  Text: Dropped by the underwater Treasure Carp closer to the Riven Cave entrance
+  Text: Dropped by the underwater Treasure Carp farther to the Riven Cave entrance
   Area: sunkenvalley_passage
   Tags: enemy carp
 - Key: '06,0:52500969::'
   DebugText:
   - 'Treasure Carp Scale - 13200045[Treasure Carp (c1320_0001 #1700451) sunkenvalley]'
-  Text: Dropped by the underwater Treasure Carp farther from the Riven Cave entrance
+  Text: Dropped by the underwater Treasure Carp closer from the Riven Cave entrance
   Area: sunkenvalley_passage
   Tags: enemy carp
 - Key: '06,0:6507::'
